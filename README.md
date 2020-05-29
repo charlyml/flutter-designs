@@ -1,16 +1,13 @@
 # designs
 
-A new Flutter project.
+You can see diferent design examples
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To test all the styles just change the initialRoute in main.dart file <br/>
 
-A few resources to get you started if this is your first Flutter project:
+![Alt Text](previews/basic-design.gif)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Alt Text](previews/design-scroll.gif)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Alt Text](previews/designs.gif)
